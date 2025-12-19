@@ -1,4 +1,3 @@
-
 uid	name	tla	div_0_name	div_1_name	tier	divisions	active	real_life_tier_name	real_life_name	prestige	completion
 2	ACC	ACC	Atlantic	Coastal	1	2	0	FBS	Atlantic Coast	3	champ
 3	American	AAC	American	Not Used	1	1	1	FBS	American	2	champ
